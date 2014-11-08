@@ -1,11 +1,8 @@
 # Low Energy Commander
 
-The commander generates very little energy, for use with Dynamic Energy.
+The commander generates very little energy (300).
 
-## Features
-
-- Rainbows
-- Unicorns
+Expectation is that this will be used with other mods like Extremely Efficient Engineers that reduce build costs or otherwise adjust the economy.
 
 ## Development
 
@@ -16,6 +13,5 @@ PA will upload **all files** in the mod directory, including `node_modules` and 
 ### Available Tasks
 
 - copy:mod - copy the mod files into server_mods
-- proc:adv_comfab - Proc: read one or more files from PA and munge into one in the mod.  Example is a reduced cost adv. fabrication bot
-- proc:antinuke - restore the builtin first antinuke.
+- proc - copy the commander from PA and write a modified version into the mod
 - default: proc, copy:mod

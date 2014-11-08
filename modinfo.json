@@ -4,7 +4,7 @@
   "context": "server",
   "category": ["energy", "commander"],
   "date": "2014/11/05",
-  "description": "The commander generates very little energy, for use with Dynamic Energy.",
+  "description": "The commander generates very little energy (300).",
   "display_name": "Low Energy Commander",
   "forum": null,
   "identifier": "com.wondible.pa.low_energy_commander",
