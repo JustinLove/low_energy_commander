@@ -3,12 +3,12 @@
   "build": "74525",
   "context": "server",
   "category": ["energy", "commander"],
-  "date": "2014/11/05",
+  "date": "2014/11/08",
   "description": "The commander generates very little energy (300).",
   "display_name": "Low Energy Commander",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-server-low-energy-commander.65882/",
   "identifier": "com.wondible.pa.low_energy_commander",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
