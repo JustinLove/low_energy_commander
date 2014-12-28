@@ -18,6 +18,7 @@ module.exports = function(grunt) {
               'LICENSE.txt',
               'README.md',
               'CHANGELOG.md',
+              'com.wondible.pa.low_energy_commander/**',
               'ui/**',
               'pa/**'],
             dest: modPath,
