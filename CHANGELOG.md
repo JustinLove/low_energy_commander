@@ -1,5 +1,4 @@
-## 1.1.0
+## 1.0.1
 
-- Support Server Mod Help Chat
 - Missed a change to commander air explosion
 
