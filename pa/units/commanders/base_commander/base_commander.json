@@ -23,12 +23,12 @@
     }
   },
   "production": {
-    "energy": 300,
-    "metal": 30
+    "energy": 200,
+    "metal": 20
   },
   "storage": {
-    "energy": 20000,
-    "metal": 1000
+    "energy": 45000,
+    "metal": 1500
   },
   "unit_types": [
     "UNITTYPE_Commander",

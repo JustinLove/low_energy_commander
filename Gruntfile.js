@@ -34,7 +34,7 @@ module.exports = function(grunt) {
           'pa/units/commanders/base_commander/base_commander.json'
         ],
         process: function(spec) {
-          spec.production.energy = 300
+          spec.production.energy = 200
         }
       }
     }
