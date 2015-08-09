@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Update for +sing
+
 ## 1.0.3
 
 - Update production and storage for 79317
