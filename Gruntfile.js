@@ -31,7 +31,7 @@ module.exports = function(grunt) {
     proc: {
       commander: {
         targets: [
-          'pa/units/commanders/base_commander/base_commander.json'
+          'pa_ex1/units/commanders/base_commander/base_commander.json'
         ],
         process: function(spec) {
           spec.production.energy = 200
