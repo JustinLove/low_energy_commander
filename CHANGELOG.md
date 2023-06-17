@@ -1,3 +1,7 @@
+## 1.1.1
+
+- update base commander for Custom58 and general changes to 116982
+
 ## 1.1.0
 
 - Now based on titans commander, which grants celestial vision and doesn't sing
